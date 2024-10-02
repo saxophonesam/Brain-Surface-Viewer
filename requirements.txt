@@ -1,0 +1,8 @@
+dash==2.18.1
+dash_colorscales==0.0.4
+dash_core_components==2.0.0
+dash_html_components==2.0.0
+numpy==2.1.1
+gunicorn
+pandas
+dash-tools
